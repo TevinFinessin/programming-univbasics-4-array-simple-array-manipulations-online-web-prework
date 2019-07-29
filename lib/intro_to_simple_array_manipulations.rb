@@ -19,3 +19,5 @@ def pop_with_args(dog_breeds)
   pop_with_args = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
 dog_breeds.pop(2)
 end
+
+def using_shift
